@@ -1,0 +1,17 @@
+# Basic Algorithm1
+
+[01_sum_between_two_numbers.py](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3)  
+[02_printing_watermelon_repeatly.py](https://programmers.co.kr/learn/courses/30/lessons/12922)  
+[03_finding_KIM_in_Seoul.py](https://programmers.co.kr/learn/courses/30/lessons/12922)  
+[04_sum_of_divisor.py](https://programmers.co.kr/learn/courses/30/lessons/12928)  
+[05_number_of_p_and_y_in_string.py](https://programmers.co.kr/learn/courses/30/lessons/12916)  
+[06_no_same_number_in_list.py](https://programmers.co.kr/learn/courses/30/lessons/12906)  
+[07_bring_middle_characters](https://programmers.co.kr/learn/courses/30/lessons/12903)  
+[08_N_numbers_with_X_distance.py](https://programmers.co.kr/learn/courses/30/lessons/12954#qna)  
+[09_print_square_with_star.py](https://programmers.co.kr/learn/courses/30/lessons/12969)  
+[10_find_average.py](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3)  
+[11_sum_of_matrix.py](https://programmers.co.kr/learn/courses/30/lessons/12950)  
+[12_even_and_odd.py](https://programmers.co.kr/learn/courses/30/lessons/12937)  
+[13_sum_of_place_value.py](https://programmers.co.kr/learn/courses/30/lessons/12931)
+[14_greatest_common_factor_and_least_common_multiple.py](https://programmers.co.kr/learn/courses/30/lessons/12940)  
+[15_discriminating_square_root.py](https://programmers.co.kr/learn/courses/30/lessons/12934)  
