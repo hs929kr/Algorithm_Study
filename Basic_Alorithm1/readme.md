@@ -1,5 +1,7 @@
-# Basic Algorithm1
-
+# Basic Algorithm1  
+---
+## Study basic python syntax and utilization  
+---
 [01_sum_between_two_numbers.py](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3)  
 [02_printing_watermelon_repeatly.py](https://programmers.co.kr/learn/courses/30/lessons/12922)  
 [03_finding_KIM_in_Seoul.py](https://programmers.co.kr/learn/courses/30/lessons/12922)  
