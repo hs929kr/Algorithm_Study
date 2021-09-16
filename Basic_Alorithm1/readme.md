@@ -1,8 +1,8 @@
 # Basic Algorithm1  
 
-## - Study basic python syntax and utilization  
+### - Study basic python syntax and utilization  
 
-## - Problems from programmers
+### - Problems from programmers
 01_sum_between_two_numbers.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3), [sol](./01_sum_between_two_numbers.py))
 
 02_printing_watermelon_repeatly.py ([prob](https://programmers.co.kr/learn/courses/30/lessons/12922), [sol](./02_printing_watermelon_repeatly.py))
