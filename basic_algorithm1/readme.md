@@ -3,7 +3,7 @@
 ### - Study basic python syntax and utilization  
 
 ### - Problems from programmers websites
-01_sum_between_two_numbers.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12912?language=python3), [sol](./01_sum_between_two_numbers.py))
+01_sum_between_two_numbers.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12912), [sol](./01_sum_between_two_numbers.py))
 
 02_printing_watermelon_repeatly.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12922), [sol](./02_printing_watermelon_repeatly.py))
 
@@ -21,7 +21,7 @@
 
 09_print_square_with_star.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12969), [sol](./09_print_square_with_star.py))
 
-10_find_average.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12944?language=python3), [sol](./10_find_average.py))
+10_find_average.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12944), [sol](./10_find_average.py))
 
 11_sum_of_matrix.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12950), [sol](./11_sum_of_matrix.py))
 
