@@ -2,7 +2,8 @@
 
 ### - Study basic python syntax and utilization  
 
-### - Problems from programmers websites
+### - Problems from Programmers websites
+
 01_utilization_of_string.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12918), [sol](./01_utilization_of_string.py))
 
 02_sort_integer_descending.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/12933), [sol](./02_sort_integer_descending.py))

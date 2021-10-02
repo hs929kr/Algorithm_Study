@@ -2,7 +2,8 @@
 
 ### - Problems about Stack and Queue 
 
-### - Problems from programmers websites
+### - Problems from Programmers websites
+
 01_stock_price.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/42584), [sol](./01_stock_price.py))
 
 02_function_development.py ([prb](https://programmers.co.kr/learn/courses/30/lessons/42586), [sol](./02_function_development.py))
