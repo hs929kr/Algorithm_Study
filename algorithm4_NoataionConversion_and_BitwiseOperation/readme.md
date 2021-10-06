@@ -1,4 +1,4 @@
-# Algorithm3 Notation Conversion and Bitwise Operation
+# Algorithm4 Notation Conversion and Bitwise Operation
 
 ### - Problems about Notation Conversion and Bitwise Operation
 
